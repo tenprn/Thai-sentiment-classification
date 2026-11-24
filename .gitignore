@@ -11,3 +11,4 @@ venv/
 *.pt
 *.pth
 *.safetensors
+experiments/
